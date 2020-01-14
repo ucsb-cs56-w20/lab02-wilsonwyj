@@ -1,7 +1,7 @@
 # lab02-wilsonwyj
 
 
-Javadoc: https://github.com/ucsb-cs56-w20/lab02-wilsonwyj/javadoc
+Javadoc: https://ucsb-cs56-w20.github.io/lab02-wilsonwyj/
 Repo: https://github.com/ucsb-cs56-w20/lab02-wilsonwyj
 
 # About this repo
